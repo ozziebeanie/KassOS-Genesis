@@ -1,17 +1,5 @@
 # Security Policy
 
-## Unsupported Legacy Versions
-
-Note: 
-    If there's a version you want support for, let me know in the discord server and I'll start supporting it for a short period.
-
-| Version      | Supported          |
-| ------------ | ------------------ |
-| Beta v0.0.5  | :x:                |
-| 0.0.5        | :x:                |
-| 0.0.4        | :x:                |
-| <0.0.3       | :x:                |
-
 ## Supported Versions
 
 | Version                | Supported          |
